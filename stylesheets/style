@@ -1,0 +1,45 @@
+h1{
+	color:red;
+	margin:0;
+	padding:0px 0px 20px 0px;
+}
+
+header nav ul{
+	margin:0;
+}
+body{
+	background:gray;
+}
+nav ul li{
+	display:inline-block;
+	list-style-type:none;
+	text-align: center;
+	margin:auto;
+}
+nav ul li a{
+	color:white;
+
+}
+nav ul li{
+	font-size:40px;
+	background:black;
+	padding:5px 15px;
+}
+
+footer{
+	vertical-align: text-bottom;
+}
+
+.row:after{
+	clear:both;
+
+}
+
+.col{
+	text-align: center;
+	background: green;
+	border-radius: 5px;
+	float:left;
+	margin:1%;
+	width:31%;
+}
